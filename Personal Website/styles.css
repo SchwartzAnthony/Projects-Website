@@ -1,0 +1,139 @@
+/*
+Vector Skull attribution: <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by sergey_kandakov - www.freepik.com</a>
+Vector Timer attribution: <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by starline - www.freepik.com</a>
+A1 Stories: https://schwartzanthonyj.itch.io/a1-stories-weihnachtsmarkt?fbclid=IwAR3YFqtOwEJ-yTzuihDKaTJI0l35VZsBLYuN0thqeYZAFs05OoqO_KdEUsM
+*/
+
+.top-header {
+  background-image: url(Images/Lucifer-crop-two.png);
+  background-size: 1000px 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 580px;
+
+}
+
+.top-header p {
+
+  text-align: center;
+  bottom: 40px;
+  color: black;
+  font-size: 450%;
+  font-family: "Times New Roman",sans-serif;
+  background-color: #E8E8E8;
+
+  display: table; /* keep the background color wrapped tight */
+  margin: 0px auto 0px auto; /* keep the table centered */
+  padding:5px;
+}
+
+
+.middle-part {
+background-color: #323232;
+width: auto;
+height: 1700px;
+}
+
+.middle-part p {
+  text-align: left;
+  position: relative;
+  left: 500px;
+  top: 75px;
+  color: #E8E8E8;
+  font-size: 125%;
+  font-family: "Futura",sans-serif;
+}
+
+.middle-stories-p p {
+  text-align: left;
+  position: relative;
+  left: 500px;
+  top: 100px;
+  color: #E8E8E8;
+  font-size: 125%;
+  font-family: "Futura",sans-serif;
+}
+
+.middle-coming-soon-p p {
+  text-align: left;
+  position: relative;
+  left: 500px;
+  top: 120px;
+  color: #E8E8E8;
+  font-size: 125%;
+  font-family: "Futura",sans-serif;
+}
+
+.image-A1 img {
+  position: relative;
+  top: 55px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.image-A1-Stories img {
+  position: relative;
+  top: 90px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.image-coming-soon img {
+  position: relative;
+  top: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+
+.middle-h2 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+  color: #E8E8E8;
+  font-size: 150%;
+  font-family: "Times New Roman",sans-serif;
+}
+
+.middle-h3 {
+  text-align: center;
+  position: relative;
+  top: 60px;
+  color: #E8E8E8;
+  font-size: 140%;
+  font-family: "Times New Roman",sans-serif;
+  font-style: italic;
+}
+
+.middle-h3-stories {
+  position: relative;
+  text-align: center;
+  top: 100px;
+  color: #E8E8E8;
+  font-size: 140%;
+  font-family: "Times New Roman",sans-serif;
+  font-style: italic;
+}
+
+
+.middle-h3-coming-soon {
+  text-align: center;
+  position: relative;
+  top: 120px;
+  color: #E8E8E8;
+  font-size: 140%;
+  font-family: "Times New Roman",sans-serif;
+  font-style: italic;
+}
